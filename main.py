@@ -17,7 +17,7 @@ while True:
     guess = guess_int.__str__()
     fguessed = guess[0]
     sguessed = guess[1]
-    time.sleep(2)
+    time.sleep(3)
     print(guess)
     #print(random_int)
     B=0
